@@ -12,7 +12,7 @@ The goal of this project is to:
 - Compare the effect of different learning rates.
 - Evaluate model performance using metrics such as **accuracy**, **precision**, **recall**, and **F1-score**.
 
-## 📂 Folder Structure
+
 
 # Required Python packages
 
@@ -32,15 +32,7 @@ The goal of this project is to:
    git clone https://github.com/neo-the-one786/ML-Algos-Handcrafted-Implementation.git
    cd ML-Algos-Handcrafted-Implementation/Logistic_Regression
 2. Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 
 3. Train the model:
-
-bash
-Copy
-Edit
 python train.py
