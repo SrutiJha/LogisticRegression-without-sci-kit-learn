@@ -14,25 +14,4 @@ The goal of this project is to:
 
 
 
-# Required Python packages
 
-## 📈 Results
-
-- **Final Cost Function Value:** `0.3778`
-- **Epochs to Convergence:** `3304`
-- **Accuracy:** `95%`
-- **Precision:** `94.34%`
-- **Recall:** `96.15%`
-- **F1-Score:** `95.23%`
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/neo-the-one786/ML-Algos-Handcrafted-Implementation.git
-   cd ML-Algos-Handcrafted-Implementation/Logistic_Regression
-2. Install dependencies:
-pip install -r requirements.txt
-
-3. Train the model:
-python train.py
